@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "750553069861",
+    "project_id": "heyapp-forus",
+    "storage_bucket": "heyapp-forus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750553069861:android:5ff63d1c788abf2a96c2cc",
+        "android_client_info": {
+          "package_name": "galih.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750553069861-kcs8t6hpcsnd7haf2vca384k4r3lage5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkuQAuHpx5Pi4w404eN2hNyw_Etu9XIvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750553069861-3bbntg5qogcr6fuhb8datpgn46uh1310.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750553069861-nr5po04v0mlaueplj137di8pflakbfdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "galih.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
